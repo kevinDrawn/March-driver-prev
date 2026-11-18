@@ -1,0 +1,9 @@
+; Copy to PROJECT ROOT as platformio.local.ini, then set your actual VCP port.
+; This file is an example and is not loaded from hardware/ST_Link automatically.
+; Replace COM12 using the STLink Virtual COM Port shown by `pio device list`.
+; Micro-B STLINK-V3MODS VCP: target UART5, PC12 TX / PD2 RX, 115200 baud.
+[env:custom_h723]
+monitor_port = COM12
+
+[env:custom_h723_encoder]
+monitor_port = COM12

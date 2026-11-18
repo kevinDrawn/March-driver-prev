@@ -1,0 +1,19 @@
+[HB] t=12s nF=OK ang=0.63
+[HB] t=14s nF=OK ang=0.63
+[HB] t=16s nF=OK ang=0.63
+[CMD] ENABLED. nFAULT=OK
+[SAFETY] WARN: Irms=3.00A (high)
+[SAFETY] WARN: Irms=3.00A (high)
+[SAFETY] WARN: Irms=3.01A (high)
+[SAFETY] WARN: Irms=3.01A (high)
+[SAFETY] WARN: Irms=3.01A (high)
+[SAFETY] WARN: Irms=3.00A (high)
+[CMD] MODE: Torque (foc_current) Ilim=3.0A
+[CMD] ENABLED. nFAULT=OK
+[CMD] Uq=0.00
+[CMD] Unknown: '3'. Send '?' for help.
+[CMD] Uq=0.30
+[CMD] Uq=0.00
+[CMD] DISABLED
+[HB] t=80s nF=OK ang=153.79
+[HB] t=82s nF=OK ang=153.79

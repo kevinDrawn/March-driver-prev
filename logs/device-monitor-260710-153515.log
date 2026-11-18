@@ -1,0 +1,66 @@
+[HB] t=12s nF=OK ang=3.29
+[HB] t=14s nF=OK ang=3.29
+[HB] t=16s nF=OK ang=3.29
+[HB] t=18s nF=OK ang=3.29
+[HB] t=20s nF=OK ang=3.29
+[HB] t=22s nF=OK ang=3.29
+[HB] t=24s nF=OK ang=3.29
+[HB] t=26s nF=OK ang=3.29
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[CMD] Unknown: '1'. Send '?' for help.
+[HB] t=28s nF=OK ang=3.29
+[HB] t=30s nF=OK ang=3.29
+[HB] t=32s nF=OK ang=3.29
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[CMD] Unknown: '1'. Send '?' for help.
+[HB] t=34s nF=OK ang=3.29
+[HB] t=36s nF=OK ang=3.29
+[HB] t=38s nF=OK ang=3.29
+[HB] t=40s nF=OK ang=3.29
+[HB] t=42s nF=OK ang=3.29
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[CMD] Unknown: '1'. Send '?' for help.
+[HB] t=44s nF=OK ang=3.29
+[HB] t=46s nF=OK ang=3.29
+[CMD] Unknown: '�'. Send '?' for help.
+[CMD] Unknown: '1'. Send '?' for help.
+[HB] t=48s nF=OK ang=3.29
+[HB] t=50s nF=OK ang=3.29
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[CMD] Unknown: '1'. Send '?' for help.
+[HB] t=52s nF=OK ang=3.29
+[HB] t=54s nF=OK ang=3.29
+[HB] t=56s nF=OK ang=3.29
+[HB] t=58s nF=OK ang=3.29
+[HB] t=60s nF=OK ang=3.29
+[HB] t=62s nF=OK ang=3.29
+[HB] t=64s nF=OK ang=3.29
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[HB] t=66s nF=OK ang=3.29
+[HB] t=68s nF=OK ang=3.29
+[HB] t=70s nF=OK ang=3.29
+[HB] t=72s nF=OK ang=3.29
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[CMD] Unknown: '0'. Send '?' for help.
+[HB] t=74s nF=OK ang=3.29
+[HB] t=76s nF=OK ang=3.29
+[HB] t=78s nF=OK ang=3.29
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[CMD] Unknown: '2'. Send '?' for help.
+[HB] t=80s nF=OK ang=3.29
+[HB] t=82s nF=OK ang=3.29
+[

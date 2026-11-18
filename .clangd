@@ -1,0 +1,21 @@
+CompileFlags:
+  Add:
+    - "-D__GNUC__=12"
+    - "-D__GNUC_MINOR__=3"
+    - "-D__GNUC_PATCHLEVEL__=1"
+    - "--target=arm-none-eabi"
+    - "-ferror-limit=0"
+    - "-isystem"
+    - "C:/Users/smart/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/12.3.1"
+    - "-isystem"
+    - "C:/Users/smart/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/12.3.1/arm-none-eabi/thumb/v7e-m+fp/hard"
+    - "-isystem"
+    - "C:/Users/smart/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"
+    - "-isystem"
+    - "C:/Users/smart/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/12.3.1/include"
+  Remove:
+    - "--param"
+    - "max-inline-insns-single=500"
+
+Diagnostics:
+  UnusedIncludes: None

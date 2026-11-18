@@ -1,0 +1,85 @@
+MOT:Zero elec. angle: 4.50
+MOT:Align current sense.
+MOT:Success: 1
+MOT:Ready.
+[FOC] Open-loop ready.
+[CAL] LUT loaded (128 slots, spline-interpolated).
+[DRV] nFAULT: HIGH (OK)
+[CS] Offsets: ia=1.6516V  ib=1.6546V  ic=1.6505V
+[CS] Zero check: Ia=0.021A  Ib=0.001A (expect ~0)
+[SAFETY] Initialized: Imax=5.0A  Istall=3.0A  t_stall=1000ms
+
+=== READY === (send '?' for help)
+
+=== Commands ===
+ e/d    : Enable/Disable motor
+ m0-m4  : Mode (VelOL, AngOL, VelCL, AngCL, Torque)
+ tX     : Set target (e.g. t10)
+ uX     : Set Uq voltage in Torque mode (e.g. u2.5)
+ VX/+/- : Set/adjust voltage limit
+ L      : Toggle CSV logging
+ S      : Full status
+ C      : Clear DRV8316 faults
+ I      : Toggle Id/Iq display
+ --- Diagnostics ---
+ Dd     : DRV8316 full register dump (decoded)
+ Da     : ADC register dump (decoded)
+ De     : Encoder register dump (decoded)
+ Ds     : Safety module status
+ Dc     : Clock info dump
+ D*     : ALL dumps
+ --- Tuning ---
+ pX/iX  : PID vel P/I
+ aX     : PID angle P
+ rX     : Output ramp
+ fX     : LPF Tf
+ --- Trajectory ---
+ wX     : Waveform (0=off, 1=sine, 2=ramp, 3=step)
+ AX/FX  : Amplitude/Frequency
+ --- Advanced ---
+ c      : Sensor calibration (LUT)
+ Es     : Encoder stream (raw + moving avg, 100Hz)
+ R      : Motor parameter ID
+ X      : CSA alignment test
+ B1-B4  : Motor bench (Static/Sweep/OCP/Sustain)
+ Ba     : Motor bench ALL
+ Sr     : Reset safety shutdown
+[HB] t=8s nF=OK ang=0.66
+[HB] t=10s nF=OK ang=0.66
+[HB] t=12s nF=OK ang=0.66
+[HB] t=14s nF=OK ang=0.66
+[CMD] GravComp: mass=50g r=20.0mm tau=9.8mNm Vq_est=0.981
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.981
+[HB] t=16s nF=OK ang=0.66
+[HB] t=18s nF=OK ang=0.66
+[HB] t=20s nF=OK ang=0.66
+[HB] t=22s nF=OK ang=0.66
+[HB] t=24s nF=OK ang=0.66
+[HB] t=26s nF=OK ang=0.66
+[CMD] ENABLED. nFAULT=OK
+[CMD] Vq=0.9710
+[CMD] Vq=0.9610
+[CMD] Vq=0.9510
+[CMD] Vq=0.9410
+[CMD] Vq=0.9310
+[CMD] Vq=0.9210
+[CMD] Vq=0.9110
+[CMD] Vq=0.9010
+[CMD] Vq=0.8910
+[CMD] Vq=0.8810
+[CMD] Vq=0.8910
+[CMD] Vq=0.9010
+[CMD] Vq=0.9110
+[CMD] Vq=0.9210
+[CMD] Vq=0.9310
+[CMD] GravComp Vq=0.9310
+[CMD] Vlim=7.00
+[CMD] Vq=0.9410
+[CMD] GravComp Vq=0.9410
+[CMD] Vlim=8.00
+[CMD] Vq=0.9310
+[CMD] Vq=0.9210
+[CMD] Vq=0.9110
+[CMD] Vq=0.9010

@@ -1,0 +1,35 @@
+[HB] t=12s nF=OK ang=1.57
+[HB] t=14s nF=OK ang=1.57
+[HB] t=16s nF=OK ang=1.57
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.000
+[CMD] Unknown: '2'. Send '?' for help.
+[HB] t=18s nF=OK ang=1.57
+[HB] t=20s nF=OK ang=1.57
+[CMD] GravComp: mass=50g r=20.0mm tau=9.8mNm Vq_est=0.981
+[CMD] MODE: GravComp (voltage)
+[CMD] Adjust: g<Vq> (set), g+/g- (±0.01V)
+[CMD] Current Vq=0.981
+[HB] t=22s nF=OK ang=1.57
+[HB] t=24s nF=OK ang=1.57
+[HB] t=26s nF=OK ang=1.57
+[HB] t=28s nF=OK ang=1.57
+[HB] t=30s nF=OK ang=1.57
+[HB] t=32s nF=OK ang=1.57
+[HB] t=34s nF=OK ang=1.57
+[HB] t=36s nF=OK ang=1.57
+[HB] t=38s nF=OK ang=1.57
+[HB] t=40s nF=OK ang=1.57
+[HB] t=42s nF=OK ang=1.57
+[HB] t=44s nF=OK ang=1.57
+[HB] t=46s nF=OK ang=1.57
+[HB] t=48s nF=OK ang=1.57
+[HB] t=50s nF=OK ang=1.57
+[HB] t=52s nF=OK ang=1.57
+[CMD] ENABLED. nFAULT=OK
+[CMD] DISABLED
+[HB] t=59s nF=OK ang=60.68
+[HB] t=61s nF=OK ang=60.68
+[HB] t=63s nF=OK ang=60.68
+[HB] t=65s nF=OK ang=60.68
